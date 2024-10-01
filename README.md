@@ -1,4 +1,4 @@
-# Ft_printf
+# ft_printf
 
 This was my approach to the ft_printf project at school 42.
 
